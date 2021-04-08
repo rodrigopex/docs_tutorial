@@ -11,6 +11,7 @@ Bem vindo à documentação do projeto TV6
    :caption: Contents:
 
    team
+   design
 
 
 Indices and tables
