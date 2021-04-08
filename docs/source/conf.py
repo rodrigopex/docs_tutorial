@@ -66,3 +66,10 @@ pygments_style = 'sphinx'
 
 # Adds number to figures
 numfig = True
+
+breathe_projects = {
+    "myproject":
+    "/home/rodrigopex/Cloud/Projects/zephyrproject/docs_tutorial/docs/build/xml/"
+}
+
+breathe_default_project = "myproject"
