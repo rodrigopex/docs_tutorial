@@ -42,4 +42,11 @@ Na imagem :numref:`fig_equipe_externa` está disposta a equipe externa formada p
     Equipe externa do projeto
 
 .. warning::
-    Se quiser apontar para outros documentos vocÊ pode fazer assim :doc:`design`.
+    Isto é um warning. Se quiser apontar para outros documentos vocÊ pode fazer assim :doc:`design`.
+
+
+.. note::
+    Já aqui temos uma nota.
+
+.. tip::
+    Já aqui temos uma dica.
